@@ -1,3 +1,4 @@
+//Linear Search
 //Leetcode question: Find Numbers with Even Number of Digits
 public class p6 {
     static int findNumbers(int[] nums) {
