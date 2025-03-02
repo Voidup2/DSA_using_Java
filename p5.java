@@ -1,3 +1,4 @@
+//Linear Search
 // Q. Find elements inside a 2d array
 import java.util.Arrays;
 import java.util.Scanner;
