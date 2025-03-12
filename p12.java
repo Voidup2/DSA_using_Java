@@ -3,7 +3,7 @@ public class p12 {
     public static int binarySearch(int[] arr, int t){
         int s=0;
         int e=s+1;
-        while(t >= arr[e]){
+        while(t > arr[e]){
             int ns = e+1;
             e = e + 2*(e-s+1);
             s = ns;
