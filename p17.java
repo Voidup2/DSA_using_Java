@@ -20,7 +20,7 @@ public class p17 {
         return max;
     }
     public static void main(String[] args) {
-        int[] a = {5,9,4,6,3,1,2};
+        int[] a = {2,3,41,-7,8,6,-86};
         selectionSort(a);
         System.out.println(Arrays.toString(a));
     }

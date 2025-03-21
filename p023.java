@@ -1,7 +1,7 @@
+//Leetcode Question -> Find all the duplicates in an array
 import java.util.ArrayList;
 import java.util.List;
-
-public class p23 {
+public class p023 {
     public static List<Integer> findDuplicates(int[] nums) {
         cycleSort(nums);
         List<Integer> result = new ArrayList<>();

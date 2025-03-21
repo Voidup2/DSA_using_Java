@@ -1,4 +1,4 @@
-//Leetcode Question: Peak index in a mountain array
+//Leetcode Question: Peak index in a mountain
 public class p13 {
     public static int peakIndexInMountainArray(int[] arr) {
         int s=0;
